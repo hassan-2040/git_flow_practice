@@ -2,3 +2,4 @@ This is the work on the main branch, before intializing repo.
 
 a) this is the first feature adding up.
 b) this is the second feature, testing the publishing a feature service.
+c) this is the third feature, checking effects of features on origin.
