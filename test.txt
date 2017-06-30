@@ -5,3 +5,4 @@ b) this is the second feature, testing the publishing a feature service.
 c) this is the third feature, checking effects of features on origin.
 d) this is the fourth feature(previous block added on first_release),check track a feature on remote.
 e) this is the release v0.0.2
+f) this is the first hotfix, v0.0.2a
